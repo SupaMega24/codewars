@@ -2,7 +2,7 @@
 
 
 /**
- * @notice [Link to this Kata](https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/javascript)
+ * @notice Link to this Kata: https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/javascript
  * @dev Returns the sum of the two lowest positive numbers in an array.
  * @param numbers An array of at least 4 positive integers.
  * @return The sum of the two smallest numbers in the array.
